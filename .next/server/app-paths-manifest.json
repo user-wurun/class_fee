@@ -1,0 +1,20 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/admin/categories/route": "app/api/admin/categories/route.js",
+  "/admin/page": "app/admin/page.js",
+  "/api/admin/registration-codes/route": "app/api/admin/registration-codes/route.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/auth/me/route": "app/api/auth/me/route.js",
+  "/api/applications/route": "app/api/applications/route.js",
+  "/api/export/png/route": "app/api/export/png/route.js",
+  "/api/applications/statistics/route": "app/api/applications/statistics/route.js",
+  "/api/upload/route": "app/api/upload/route.js",
+  "/api/admin/users/route": "app/api/admin/users/route.js",
+  "/api/applications/[id]/route": "app/api/applications/[id]/route.js",
+  "/api/export/xlsx/route": "app/api/export/xlsx/route.js",
+  "/api/auth/register/route": "app/api/auth/register/route.js",
+  "/applications/new/page": "app/applications/new/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/register/page": "app/register/page.js"
+}
